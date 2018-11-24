@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpotifyActivityDesign</string>
+    <string name="activity_listening_text_view_device_available">Device Available</string>
+    <string name="activity_listening_text_view_current_time">1:05</string>
+    <string name="activity_listening_text_view_remaining_time">3:06</string>
+    <string name="activity_listening_text_view_song">Scared to be lonely</string>
+    <string name="activity_listening_text_view_artist">Martin Garrix, Dua Lipa</string>
+    <string name="activity_listening_text_view_playing_from">Playing from playlist</string>
+    <string name="activity_listening_text_view_playlist_name">Electronic by Popeye</string>
+</resources>
